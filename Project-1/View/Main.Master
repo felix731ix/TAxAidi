@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Project_1.View.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style2 {
+            width: 1535px;
+        }
+
+        .auto-style5 {
+            width: 1161px;
+            margin-left: 40px;
+        }
+
+        .nav-bar-range {
+            width : auto;
+            margin-left: 40px;
+        }
+        .auto-style6 {
+            width: 190px;
+        }
+
+        .auto-style8 {
+            margin-left: 9px;
+        }
+
+        .auto-style9 {
+            width: 272px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <h1>TAxAidi</h1>
+        <div>
+            <table class="auto-style2">
+                <tr>
+                    <td class="nav-bar-range">
+                        <asp:Button ID="btnHome" Text="Home" runat="server" Visible="False" OnClick="btnHome_Click" />
+                        <asp:Button ID="btnRedeemToken" Text="Redeem Token" runat="server" Visible="False" OnClick="btnRedeemToken_Click" />
+                        <asp:Button ID="btnAddShows" Text="Add Shows" runat="server" Visible="False" OnClick="btnAddShows_Click" />
+                        <asp:Button ID="btnReports" Text="Reports" runat="server" Visible="False" OnClick="btnReports_Click"/>
+                        <asp:Button ID="btnTransactions" Text="Transaction" runat="server" Visible="False" OnClick="btnTransactions_Click" />
+                        <asp:Button ID="btnAccount" Text="Account" runat="server" Visible="False" OnClick="btnAccount_Click" />
+                        <asp:Button ID="btnRegister" Text="Register" runat="server" Visible="False" OnClick="btnRegister_Click" />
+                        <asp:Button ID="btnLogin" Text="Login" runat="server" Visible="False" OnClick="btnLogin_Click" />
+                        
+                    </td>
+
+                    <td style="width:43px">
+                        <asp:Label ID="lblSearch" Text="Search" runat="server" />
+                    </td>
+
+                    <td>                       
+                        <asp:TextBox ID="txtSearch" runat="server" CssClass="auto-style8" Width="145px" />
+                        <asp:Button ID="btnGo" Text="Go" runat="server" OnClick="btnGo_Click" />
+                    </td>
+
+
+                    <td class="auto-style6">
+                        <asp:Label Text="Welcome, " runat="server" />
+                        <asp:Label ID="userName" runat="server" Font-Bold="True" />
+                    </td>
+                    <td>
+                        <asp:Button style="margin-right : 38px;" ID="btnLogout" Text="Logout" runat="server" Visible="False" Width="56px" OnClick="btnLogout_Click" />
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

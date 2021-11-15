@@ -1,0 +1,459 @@
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\Project-1.dll.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\Project-1.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\Project-1.pdb
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csc.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csc.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csc.rsp
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csi.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csi.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csi.rsp
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Console.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\vbc.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\vbc.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\vbc.rsp
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.xml
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\Project-1.dll.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csi.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csi.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\csi.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Console.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\vbc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\vbc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\vbc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V2]\Project-1\Project-1\obj\Debug\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\Project-1.dll.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\csc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\csc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\csc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\csi.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\csi.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\csi.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Console.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\vbc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\vbc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\vbc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\EntityFramework.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\EntityFramework.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\obj\Debug\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3]\Project-1\Project-1\obj\Debug\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.dll.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Console.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.pdb
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.dll.config
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.pdb
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.exe
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.exe.config
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.rsp
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.exe
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.exe.config
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.rsp
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Console.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.exe
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.exe.config
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.rsp
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.xml
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.dll
+C:\Users\Louis\Desktop\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.dll.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\csi.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Console.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\vbc.rsp
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\obj\Debug\Project-1.pdb
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportSource.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.Shared.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.Web.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Kuliah\Semester 4\Project Lab\Pattern Software Design\Project PSD Revisi\Project-1 [V3] + Order Page\Project-1\Project-1\bin\stdole.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\Project-1.dll.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\Project-1.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\Project-1.pdb
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\csc.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\csc.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\csc.rsp
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\csi.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\csi.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\csi.rsp
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.AppContext.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Collections.Immutable.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Console.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.IO.Compression.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Net.Http.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Net.Sockets.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.ValueTuple.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Xml.XPath.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\vbc.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\vbc.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\vbc.rsp
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\roslyn\VBCSCompiler.exe.config
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\EntityFramework.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\EntityFramework.SqlServer.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\stdole.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\EntityFramework.xml
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\EntityFramework.SqlServer.xml
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\obj\Debug\Project-1.csprojAssemblyReference.cache
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\obj\Debug\Project-1.csproj.CoreCompileInputs.cache
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\obj\Debug\Project-1.csproj.CopyComplete
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\obj\Debug\Project-1.dll
+D:\Felix's\BINUS UNIVERSITY\Semester 4\Pattern Software Design\LAB\Project-1\Project-1\obj\Debug\Project-1.pdb

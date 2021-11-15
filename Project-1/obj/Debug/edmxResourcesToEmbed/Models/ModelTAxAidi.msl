@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseTAxAidiModelStoreContainer" CdmEntityContainer="DatabaseTAxAidiEntities1">
+    <EntitySetMapping Name="Reviews">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.Review">
+        <MappingFragment StoreEntitySet="Reviews">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TransactionDetailId" ColumnName="TransactionDetailId" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Shows">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.Show">
+        <MappingFragment StoreEntitySet="Shows">
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SellerId" ColumnName="SellerId" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Statuses">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.Status">
+        <MappingFragment StoreEntitySet="Statuses">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransactionDetails">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.TransactionDetail">
+        <MappingFragment StoreEntitySet="TransactionDetails">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TransactionHeaderId" ColumnName="TransactionHeaderId" />
+          <ScalarProperty Name="StatusId" ColumnName="StatusId" />
+          <ScalarProperty Name="Token" ColumnName="Token" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransactionHeaders">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.TransactionHeader">
+        <MappingFragment StoreEntitySet="TransactionHeaders">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="BuyerId" ColumnName="BuyerId" />
+          <ScalarProperty Name="ShowId" ColumnName="ShowId" />
+          <ScalarProperty Name="ShowTime" ColumnName="ShowTime" />
+          <ScalarProperty Name="CreatedAt" ColumnName="CreatedAt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="DatabaseTAxAidiModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
